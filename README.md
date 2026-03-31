@@ -28,5 +28,5 @@ How to Run
 -Navigate to the folder where main.py is saved.
 -Run the program using:python
 
-Name: Shivansh Gupta
-Registration No:  25BAI11077
+Name: Anshika Jain
+Registration No:  25BCE10112
